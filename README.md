@@ -1,4 +1,4 @@
-# App de Sorteio no Android
+# App de Sorteio criado no Android Studio
 
 Este repositório mostra a criação de uma interface de um aplicativo simples no Android Studio.
 
